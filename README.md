@@ -1,9 +1,9 @@
 # AluraQuiz Base
 
-Seja bem vindo ao projeto base do AluraQuiz!!! Passos fundamentais:
-- Marque esse projeto com uma estrela
-- Siga as instruções das aulas e conteúdo extra da Imersão React Next.js
-- Faça o deploy na Vercel e compartilhe
+Welcome to the AluraQuiz base project!!! Fundamental steps:
+- Mark this project with a star
+- Follow the instructions in the classes and extra content of the React Next.js Immersion
+- Deploy it on Vercel and share it
 
 ![Capa do Projeto](/_docs/aluraquiz-base.png)
 
